@@ -1,5 +1,4 @@
-# Insurance-Prediction_Zindi-Competition
-Insurance Prediction Challenge
+### Insurance Prediction Challenge
 
 Description of the challenge:
 
